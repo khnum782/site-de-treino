@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./images/capa.png">
 </p>
 
 <br>
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 
-- [Visite o projeto online] (https://reliable-hummingbird-802f51.netlify.app/)
+- [Visite o projeto online] (https://khnum782.github.io/site-de-treino/)
 
 ## 🔖 Layout
 
